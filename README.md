@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Notion-000080?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-E9967A?style=flat-square&logo=Slack&logoColor=white"/></a>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayeonChoi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayeon-Choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> 
 
 </div>
 
