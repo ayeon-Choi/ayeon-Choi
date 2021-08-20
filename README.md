@@ -34,6 +34,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-00000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
+
+
 </div>
 
 
