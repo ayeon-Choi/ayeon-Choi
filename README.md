@@ -8,9 +8,7 @@
 
 [![AHYEON's github stats](https://github-readme-stats.vercel.app/api?username=ayeon-Choi&show_icons=true&theme=radical)]()
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
 	
-
 ### 🔥 My tech stack 🔥
 <img src="https://img.shields.io/badge/JavaScript-FFD9E4?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -24,6 +22,18 @@
 <img src="https://img.shields.io/badge/Oracle-FF6347?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000080?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-E9967A?style=flat-square&logo=Slack&logoColor=white"/></a>
+
+### 🍒 Me 🍒
+
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ayzxin_/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
+
 
 </div>
 
