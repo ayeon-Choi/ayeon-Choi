@@ -6,7 +6,6 @@
  ## 🙌 hi there 🙌
  ### I'm BackEnd developer **"let's live chakage"**
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ayeonChoi/)](https://github.com/ayeonChoi/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
 	
 
