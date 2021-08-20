@@ -3,13 +3,13 @@
   
   
   
- ## 🙌 hi there 🙌
- ### I'm BackEnd developer
+ ### 🙌 hi there 🙌
+ #### I'm BackEnd developer
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
 	
 
-## 🔥 tech stack 🔥
+### 🔥 tech stack 🔥
 <img src="https://img.shields.io/badge/JavaScript-FFD9E4?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/Oracle-FF6347?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000080?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-E9967A?style=flat-square&logo=Slack&logoColor=white"/></a>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayeon-Choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> 
 
 </div>
 
