@@ -4,7 +4,7 @@
   
   
  ## 🙌 hi there 🙌
- ### I'm BackEnd developer **"let's live chakage"**
+ ### I'm BackEnd developer
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
 	
@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/Oracle-FF6347?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000080?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-E9967A?style=flat-square&logo=Slack&logoColor=white"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeon-Choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
