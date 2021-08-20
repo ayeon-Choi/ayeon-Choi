@@ -8,8 +8,6 @@
 
 [![AHYEON's github stats](https://github-readme-stats.vercel.app/api?username=ayeon-Choi&show_icons=true&theme=radical)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeon-Choi)](https://github.com/ayeon-Choi/github-readme-stats)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
 	
 
