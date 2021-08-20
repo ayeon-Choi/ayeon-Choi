@@ -7,6 +7,9 @@
  #### I'm BackEnd developer
 
 [![AHYEON's github stats](https://github-readme-stats.vercel.app/api?username=ayeon-Choi&show_icons=true&theme=radical)]()
+	
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
 
 	
 ### 🔥 My tech stack 🔥
@@ -25,15 +28,11 @@
 
 ### 🍒 Me 🍒
 
-<a href="https://instagram.com/ayzin_.dev">
+<a href="https://www.instagram.com/ayzxin_/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ayzxin_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon3590@gmail.com)](mailto:ayeon3590@gmail.com)
-
 
 </div>
 
